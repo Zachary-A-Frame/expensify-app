@@ -1,9 +1,6 @@
 {
   "name": "expensify",
   "version": "1.0.0",
-  "engines": {
-    "yarn": "1.7.0"
-  },
   "main": "index.js",
   "author": "Zach Frame",
   "license": "MIT",
