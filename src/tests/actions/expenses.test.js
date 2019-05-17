@@ -13,6 +13,8 @@ import {
 import expenses from '../fixtures/expenses.js'
 import database from '../../firebase/firebase.js'
 
+// THUNK is used to test ASYNCHRONOUS actions.
+
 // CRUD test cases. 
 const createMockStore = configureMockStore([thunk])
 
