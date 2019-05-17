@@ -1,5 +1,5 @@
-Expensify App Commands 
-After install and installation, use yarn test to run jest test suite. 
+Expensify App Commands After Install and Installation:
+use yarn test to run jest test suite. 
 
 Use yarn run dev-server to run application locally. 
 
